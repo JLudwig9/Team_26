@@ -9,4 +9,15 @@
     <string name="err_title_empty">Error: Title can\'t be empty!</string>
     <string name="err_date_empty">Error: Date can\'t be empty!</string>
     <string name="err_db_insert">Error: Couldn\'t insert the data into the database!</string>
+
+    <string name="app_name_ru">Хронос</string>
+    <string name="create_task_ru">Создать задачу</string>
+    <string name="title_ru">Создать задачу</string>
+    <string name="create_ru">Create</string>
+    <string name="date_ru">Создавать</string>
+    <string name="group_ru">Группа</string>
+    <string name="description_ru">Описание</string>
+    <string name="err_title_empty_ru">Ошибка: заголовок не может быть пустым!</string>
+    <string name="err_date_empt_ruy">Ошибка: дата не может быть пустой!</string>
+    <string name="err_db_insert_ru">Ошибка: не удалось вставить данные в базу данных!</string>
 </resources>
